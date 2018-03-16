@@ -1,0 +1,17 @@
+安装说明
+
+本程序系统环境推荐 Linux + 宝塔面板 + apache + php5.6
+
+本程序不支持win+iis组合！
+
+版本：微信小秘书V1.6.7
+
+上传程序到网站目录
+
+导入根目录下的xiaomishu.sql文件到数据库
+
+修改data/config.php内的数据库连接信息
+
+默认管理员帐号 admin  密码 xiaoyinnet
+
+微信小秘书  联系QQ：1031199343
